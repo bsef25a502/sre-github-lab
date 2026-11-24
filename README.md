@@ -35,6 +35,7 @@ view pending items at a glance, and mark completed tasks as done.
 
 ## Assumptions and open questions
 - **Assumption A-01:** Students will access the tracker from a modern desktop or mobile web browser with local or cloud session persistence.
+- **Assumption A-02:** each student manages a personal task list without needing multi user team sharing in version 1.
 - **Question Q-01:** Should students be able to edit a task title or delete a task after saving it in the initial release?
 - **Question Q-02:** Which specific browser and hardware configuration will be used as the standard test device for verifying NFR-01?
 
